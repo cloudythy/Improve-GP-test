@@ -11,7 +11,3 @@ meta_model.py is our implementation of XGBoost on the meta-features data set. We
 
 main.py is the file that runs the required tests.
 All functions are documented in a pydoc format.
-
-Authors:
-Shay Sakazi
-Ido Sakazi
